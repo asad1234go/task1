@@ -1,2 +1,2 @@
 ASSET_NAME = 'PyUpdater App'
-ASSET_VERSION = '1.1.1'
+ASSET_VERSION = '1.2.0'
